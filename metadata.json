@@ -1,0 +1,5 @@
+{
+  "name": "WriteLess",
+  "description": "A minimalist Markdown note-taking app with Live Preview, inspired by Obsidian and Notion.",
+  "requestFramePermissions": []
+}
